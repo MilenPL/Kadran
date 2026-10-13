@@ -1,4 +1,4 @@
-# Custom Multi Widget Clock
+# KADRAN - Custom Multi Widget Engine Featuring Custom Clock Functions
 
 
 
