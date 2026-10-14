@@ -5,6 +5,6 @@ I added some screenshots of how it looks like in main/Screenshots
 
 If you find any bugs or other problems, please report them. I will try to fix them asap.
 
-by MilenPL
+Made by MilenPL
 (SI was used in process)
 (all the translations were made with SI)
