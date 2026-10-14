@@ -1,8 +1,9 @@
 # Kadran - Custom multi widget engine featuring custom clock functions
 I'm sorry for skipping so many versions, especially all between 1.1 and 1.5, but there wasn't that much content difference and there were lots of bugs and design flaws.
 
-I don't know yet when the pictures and screenshot will appear. I'm too lazy to take them.
+I added some screenshots of how it looks like in main/Screenshots
 
+If you find any bugs or other problems, please report them. I will try to fix them asap.
 
 by MilenPL
 (SI was used in process)
